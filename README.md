@@ -6,7 +6,7 @@
 
 </div>
 
-🌐 Portfolio: [agentgeo.net](https://agentgeo.net)
+🌐 Portfolio: [yourgeo.net](https://yourgeo.net)
 
 ## 🚀 About Me
 
