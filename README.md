@@ -6,6 +6,8 @@
 
 </div>
 
+🌐 Portfolio: [agentgeo.net](https://agentgeo.net)
+
 ## 🚀 About Me
 
 I am a dedicated **Full-Stack Developer** and **AI/ML Engineer** with a passion for building innovative solutions across various domains. My expertise spans artificial intelligence, machine learning, blockchain technologies (with a focus on Solana), edge computing, and autonomous systems. I thrive on transforming complex ideas into robust, scalable, and efficient applications.
