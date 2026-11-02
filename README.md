@@ -1,154 +1,92 @@
-# Eddy Woods | The Architect of Intelligent Systems
-
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=490&lines=Full-Stack+Architect;AI%2FML+Innovator;Blockchain+Engineer;Edge+Computing+Specialist;Autonomous+Systems+Developer)](https://git.io/typing-svg)
-
-</div>
-
-## 🚀 About Eddy
-
-I am a **Full-Stack Architect** and **AI/ML Innovator** driven by a relentless pursuit of engineering excellence at the convergence of cutting-edge technologies. My expertise lies in designing, building, and deploying robust, scalable, and intelligent systems that push the boundaries of what's possible. I specialize in leveraging **Artificial Intelligence**, **Machine Learning**, **Blockchain (Solana)**, **Edge Computing**, and **Autonomous Systems** to solve complex, real-world challenges and create transformative digital experiences.
-
-My approach is rooted in a deep understanding of distributed systems, real-time data processing, and optimized performance, ensuring that every solution is not only innovative but also highly efficient and resilient. I thrive on bringing ambitious visions to life, from high-performance gaming environments to sophisticated blockchain analytics and distributed AI orchestration.
-
-## 🛠️ Elite Tech Arsenal
-
-### Core Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Web & Frontend Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Blockchain & Web3
-![Solana](https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black)
-![Anchor](https://img.shields.io/badge/Anchor-A15C22?style=for-the-badge&logo=anchor&logoColor=white)
-
-### Cloud, DevOps & Edge
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-378A1F?style=for-the-badge&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=Raspberry_Pi&logoColor=white)
-![NVIDIA Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-### AI Providers
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-DD5246?style=for-the-badge&logo=anthropic&logoColor=white)
-![Grok (xAI)](https://img.shields.io/badge/Grok_(xAI)-000000?style=for-the-badge&logo=xai&logoColor=white)
-
-## 🌟 Signature Projects
-
-### 🏙️ [IronHaven AIMMO](https://github.com/ereezyy/IronHaven_AIMMO)
-**A Cyberpunk MMO Redefining AI-Driven Immersive Worlds**
-
-An ambitious browser-based Massively Multiplayer Online game that seamlessly blends a rich cyberpunk aesthetic with groundbreaking AI-driven mechanics. IronHaven AIMMO features a dynamically evolving world where every NPC interaction, environmental detail, and narrative thread is influenced by advanced AI, procedural generation, and real-time physics.
-
-- **Core Technologies**: TypeScript, React, Three.js, WebGL, Vite
-- **AI Innovation**: Emergent NPC behaviors, adaptive storylines, real-time tactical AI combat, dynamic vehicle AI.
-- **World Engineering**: Procedural city generation, 3D spatial audio, dynamic weather systems, optimized for web-based delivery.
-
----
-
-### 🤖 [AgentSystem](https://github.com/ereezyy/AgentSystem)
-**Distributed AI Orchestration for Scalable Edge Intelligence**
-
-A robust distributed AI framework engineered for orchestrating complex AI workloads across diverse computing environments, from cloud servers to resource-constrained edge devices like the Raspberry Pi 5. AgentSystem leverages Celery for efficient task distribution and integrates seamlessly with multiple leading AI providers (OpenAI, Gemini, OpenRouter, xAI) to manage autonomous agents with persistent memory and context.
-
-- **Core Technologies**: Python, Celery, Redis, Docker, Raspberry Pi 5, Flask/FastAPI (conceptual)
-- **AI Innovation**: Multi-provider LLM integration, autonomous agent operations with persistent memory, real-time WebSocket streaming for AI responses.
-- **System Architecture**: Modular and fault-tolerant design for scalable deployment of intelligent agents in real-world scenarios.
-
----
-
-### 🐋 [AgentSwarm](https://github.com/ereezyy/AgentSwarm)
-**AI-Driven Blockchain Monitoring & MEV/Arbitrage on Solana**
-
-An autonomous, recursive gangster swarm—"The Syndicate"—designed for real-time blockchain monitoring and AI-driven whale tracking on the Solana network. AgentSwarm identifies and capitalizes on profitable Maximal Extractable Value (MEV) and arbitrage opportunities across decentralized exchanges, orchestrating specialized sub-agents ("The Crew") under a central intelligence ("The Don") for automated, high-precision execution.
-
-- **Core Technologies**: Node.js, Python, Next.js (React), Solana Web3.js, SPL Token, Jito MEV Bundles
-- **AI Innovation**: Advanced AI models for whale tracking, multi-LLM integration (Gemini, OpenAI, Anthropic, Groq) for strategic decision-making, Python-powered AI actions via `self-operating-computer` framework.
-- **Blockchain Engineering**: Real-time Solana blockchain activity tracking, sub-millisecond MEV/arbitrage execution, interactive dashboards for swarm activity visualization.
-
----
-
-### 👁️ [Pi5Vision](https://github.com/ereezyy/Pi5Vision)
-**Real-time Computer Vision for Raspberry Pi 5 Edge Deployments**
-
-An advanced computer vision system optimized for high-performance edge computing on the Raspberry Pi 5 platform. Pi5Vision delivers low-latency visual processing in resource-constrained environments, enabling real-time object detection and analysis for a wide range of embedded and IoT applications.
-
-- **Core Technologies**: Python, OpenCV, TensorFlow Lite, Raspberry Pi 5
-- **AI Innovation**: Custom-trained models for real-time object detection, edge AI optimization for minimal latency.
-- **System Design**: Modular architecture for easy integration, high-performance inference on dedicated edge hardware.
-
----
-
-### 🧬 [NeuralArchitectureEvolution](https://github.com/ereezyy/NeuralArchitectureEvolution)
-**Pioneering Self-Optimizing Neural Networks for Edge Gaming AI**
-
-Dedicated research and development into novel, self-optimizing neural network architectures specifically designed to enhance AI in edge gaming environments. This project explores adaptive AI models for dynamic game environments, automated architecture search for optimal performance, and the development of experimental AI architectures for cutting-edge research.
-
-- **Core Technologies**: Python, PyTorch, Custom Neural Architectures, Reinforcement Learning
-- **AI Innovation**: Adaptive AI for dynamic game content, automated architecture search, edge-optimized neural networks for low-latency inference.
-- **Research Focus**: Exploring emergent AI behaviors and pushing the theoretical and practical limits of AI in interactive entertainment.
-
----
-
-### 🧠 [NPCPersonalitySystem](https://github.com/ereezyy/NPCPersonalitySystem)
-**Procedural Generation of Psychologically Rich NPC Personalities**
-
-A sophisticated system focused on generating complex, believable, and psychologically realistic NPC personalities through advanced procedural methods. This project aims to significantly enhance immersion and dynamic storytelling in games by creating characters with dynamic traits, context-aware dialogue, and impactful interactions that genuinely influence the game world.
-
-- **Core Technologies**: Python, AI/ML, Natural Language Processing, Game Design Principles
-- **AI Innovation**: Dynamic personality traits and behavioral patterns, context-aware dialogue generation, psychological modeling for realistic AI characters.
-- **Game Design Impact**: Enhancing immersion and dynamic storytelling through intelligent, evolving NPC interactions.
-
-## 📊 GitHub Performance Metrics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ereezyy&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ereezyy&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ereezyy&theme=dark&hide_border=true&background=0D1117&currstreak_color=00F7FF&ring_color=00F7FF)
-
-</div>
-
-## 🌐 Connect & Collaborate
-
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourgeo.net)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eddywoods)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ereezyy)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ironhaven)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:05010d,45:3a0ca3,100:00f7ff&text=EDDY%20WOODS&fontColor=ffffff&fontSize=72&fontAlignY=38&desc=I%20keep%20a%20building%20alive%20by%20day.%20I%20ship%20machines%20by%20night.&descSize=17&descAlignY=60&animation=fadeIn" width="100%"/>
+
+<a href="https://waveforge.net"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=00F7FF&center=true&vCenter=true&width=640&lines=Sound+in.+Music+video+out.+%E2%86%92+waveforge.net;Your+agents+have+no+alibi.+%E2%86%92+proofchain.us;One+operator.+Many+agents.+Real+production." alt="typing"/></a>
+
+<br/>
+
+[![WaveForge](https://img.shields.io/badge/LIVE-waveforge.net-00f7ff?style=for-the-badge&labelColor=05010d)](https://waveforge.net)
+[![ProofChain](https://img.shields.io/badge/LIVE-proofchain.us-b5179e?style=for-the-badge&labelColor=05010d)](https://proofchain.us)
 
 </div>
 
 ---
 
+```text
+$ whoami
+operator. one-person maintenance department for a facility that never closes.
+runs a fleet of AI agents (Claude, Codex, Grok, Hermes) like a crew,
+with a reviewer gate, draft PRs only, and nothing hits main without green CI.
+
+$ cat ./philosophy
+if a system needs me to babysit it, it isn't finished yet.
+```
+
+## ⚡ In production
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌊 [WaveForge](https://waveforge.net)
+**Drop a track. Get a music video.**
+
+Audio-reactive music video generator for independent artists. Upload the same file you sent your distributor and get videos for YouTube (16:9), TikTok/Reels (9:16), square, and Spotify Canvas.
+
+- Queue-based ffmpeg render workers with tiered slots, memory guards and auto-refunds on failure
+- Public REST API, JS + Python SDKs, and an **MCP server** so agents in Cursor, Claude or Grok can render videos themselves
+- Stripe credits, YouTube direct upload, LRCLIB lyric sync
+
+`TypeScript` `React` `Postgres` `ffmpeg` `MCP` `Stripe`
+
+</td>
+<td width="50%" valign="top">
+
+### ⛓️ [ProofChain](https://github.com/ereezyy/proofchain)
+**Your agents have no alibi.**
+
+Compliance infrastructure for autonomous AI agents: cryptographic identity (AgentID), a tamper-evident on-chain audit trail, and reports mapped to the EU AI Act, SOC 2 and GDPR.
+
+- [`proofchain-mcp`](https://github.com/ereezyy/proofchain-mcp): every agent read is notarized and replayable by an auditor
+- Live public registry at [proofchain.us](https://proofchain.us)
+
+`Node` `X1 / Solana` `MCP` `Express`
+
+</td>
+</tr>
+</table>
+
+## 🧪 The lab: making agents safe to hand the keys to
+
+| Project | What it is |
+| --- | --- |
+| 🛡️ [**agent-compliance-lora**](https://github.com/ereezyy/agent-compliance-lora) | LoRA fine-tune of Qwen2.5 that drafts and asks before irreversible actions and ignores prompt injection in tools, pages and email. Scored on a 111-case held-out benchmark. |
+| 🔴 [**redteam**](https://github.com/ereezyy/redteam) | CLI for LLM vulnerability diagnostics and recon automation. Tooling, not prompt lists. |
+| 🔍 [**warden-ai-agent-toolkit**](https://github.com/ereezyy/warden-ai-agent-toolkit) | Code-audit CLI: secrets, injection, unsafe exec. SARIF output for GitHub code scanning. |
+| 🤖 [**AgentSystem**](https://github.com/ereezyy/AgentSystem) | Distributed agent orchestration on Celery, built for Raspberry Pi clusters. |
+| 🐋 [**AgentSwarm**](https://github.com/ereezyy/AgentSwarm) | Real-time Solana whale tracking with agent-based alerts. |
+| 👁️ [**Pi5Vision**](https://github.com/ereezyy/Pi5Vision) | Real-time computer vision on Raspberry Pi 5 with OpenCV + TFLite. |
+
+## 🧰 Stack I actually ship with
+
 <div align="center">
 
-**"Engineering the future, one intelligent system at a time."** 🚀
+<img src="https://skillicons.dev/icons?i=ts,python,react,nodejs,postgres,redis,docker,linux,raspberrypi,githubactions,vite,tailwind&perline=12" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=ereezyy&color=blueviolet&style=for-the-badge)
+</div>
 
+## 📡 Signal
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ereezyy&show_icons=true&hide_border=true&bg_color=05010d&title_color=00f7ff&icon_color=b5179e&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ereezyy&layout=compact&hide_border=true&bg_color=05010d&title_color=00f7ff&text_color=c9d1d9&langs_count=6" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ereezyy&bg_color=05010d&color=00f7ff&line=b5179e&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:00f7ff,55:3a0ca3,100:05010d"/>
 </div>
